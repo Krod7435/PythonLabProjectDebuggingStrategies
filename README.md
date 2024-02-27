@@ -1,5 +1,7 @@
 # PythonLabProjectDebuggingStrategies
 
+Goolge Cybersecurity Python Lab Project by Kiernan Rodriguez: Debug Python Code
+
 Introduction:
 
 One of the biggest challenges faced by analysts is ensuring that automated processes run smoothly. Debugging is an important practice that security analysts incorporate in their work to identify errors in code and resolve them so that the code achieves the desired outcome.
